@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Me chamo Gualter Albino 🚀 </h1>
-💿 🤖 Atualmente estou aprendendo <b>Java e JavaScript<b>
+💿 🤖 Atualmente estou aprendendo <b>JavaScript e Node.js<b>
   
 💿 📭 Como me encontrar: **gualteralbino1000@gmail.com**<br>
-💿 ⌛ Cursando 3º período ⚡ De Ciências Da Computação
+💿 ⌛ Cursando 4º período ⚡ De Ciências Da Computação
  
  <div align="center">
    
